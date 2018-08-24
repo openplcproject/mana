@@ -1,2 +1,5 @@
-# mana
-Mana is the mangment repos and contains root into and script etc..
+# Meta Stuff
+
+This is where stuff goes to assemble the whole opel plc env + build etc.. hopefully..
+
+
